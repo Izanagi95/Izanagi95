@@ -32,7 +32,7 @@ Hi, I’m **Chenghao**, a software engineer passionate about turning complex pro
 | **SmartEcoQ** | AI chat assistant, Booking system, Recycling assistant & Map navigator     | Javascript, React, IBM Watsonx | [details](https://it.newsroom.ibm.com/greencity-ai-hack) <br> [PoC](https://demo-smart-eco-q.streamlit.app/)|
 | **FluidContentAI** | AI powered content manager     | Javascript, React, Gemini, FastAPI, Python | [PoC](https://fluid-content-ai.netlify.app/)|
 | **ICPN** | ICPN website | Wordpress, PHP | [website](https://www.icpn.it/) |
-
+| **IANUA yearbook** | IANUA yearbook challenge | React |  [PoC](https://ianua-yearbook.netlify.app/) |
 
 ## 🧭 Why I Code
 

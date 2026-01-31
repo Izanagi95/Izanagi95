@@ -1,6 +1,6 @@
 # 🚀 Chenghao's Dev Arsenal
 
-Welcome to my GitHub — where modern software engineering meets creativity, performance, and purpose. This repository is a curated showcase of my work across AI, cloud, automation, testing, and full-stack development — all built with love, code, and a mission to help others grow.
+Welcome to my GitHub, where modern software engineering meets creativity, performance, and purpose. This repository is a curated showcase of my work across AI, cloud, automation, testing, and full-stack development, all built with love, code, and a mission to help others grow.
 
 ## 🧠 Who Am I?
 
@@ -9,16 +9,18 @@ Hi, I’m **Chenghao**, a software engineer passionate about turning complex pro
 ## 🛠️ My Skill Set
 
 ### 💻 Tools & Technologies
-- **Frontend Development**: JavaScript, React, Bootstrap, HTML/CSS
+- **Frontend Development**: JavaScript, React, Next.js, Bootstrap, HTML/CSS, streamlit
 - **Backend Development**: Java, C, C++, C#, Python, NGINX
 - **Cloud Providers**: AWS, Google Cloud
-- **Database**: PostgreSQL, MySQLLite, SQL Server, MongoDB
+- **Database**: PostgreSQL, MySQL, MySQLLite, SQL Server, MongoDB
 - **DevOps**: Azure DevOps, Docker, Jenkins
 - **BI & Analytics**: PowerBI, SSIS
-
+- **AI and workflow**: Cheshire Cat, n8n
+   
 ### 📈 Industry Expertise
-- **Manufacturing Digitalization**: Creating tailored solutions for clients in sectors like aerospace, construction machinery, lighting products, and more through IOT and Cloud.
-- **PLM Integration**: Integrating Teamcenter with other systems like ERP, MES, and MOM for streamlined workflows and data management across manufacturing processes.
+- **Industrial Digitalization & Industry 4.0**: Designing and implementing digital solutions for industrial environments using IoT, Cloud, and data-driven architectures across multiple manufacturing sectors.
+- **Manufacturing IT Systems**: Experience with ERP (e.g., Infor LN), MES/MOM (e.g., Opcenter), PLM (e.g., Teamcenter), and other industrial software for workflow orchestration, production tracking, and data integration across shop-floor and enterprise systems.
+- **Process Optimization & Integration**: Streamlining workflows, automating operations, and ensuring end-to-end traceability across manufacturing processes and systems.
 
 ## 🧪 Featured Projects
 
@@ -42,5 +44,5 @@ Hi, I’m **Chenghao**, a software engineer passionate about turning complex pro
 
 **Learning by doing**: Every hackathon, every project is a step forward
 
-**Sharing knowledge**: From junior devs to enterprise clients — I’ve got your back
+**Sharing knowledge**: From junior devs to enterprise clients, I’ve got your back
 
